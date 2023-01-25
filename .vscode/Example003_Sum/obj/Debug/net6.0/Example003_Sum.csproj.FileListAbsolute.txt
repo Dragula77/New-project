@@ -1,0 +1,5 @@
+/Users/igormincenko/Documents/Examples/.vscode/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.AssemblyReference.cache
+/Users/igormincenko/Documents/Examples/.vscode/Example003_Sum/obj/Debug/net6.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igormincenko/Documents/Examples/.vscode/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfoInputs.cache
+/Users/igormincenko/Documents/Examples/.vscode/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfo.cs
+/Users/igormincenko/Documents/Examples/.vscode/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.CoreCompileInputs.cache
